@@ -35,9 +35,8 @@
 
 ## How to clone this Repository
 - make sure you have [node](https://nodejs.org/en/download/) installed on your pc, go to your command line and run the command below
-- mkdir gym-portfolio
-- cd gym-portfolio
 - `git clone https://github.com/EniolaAdemola/gym-portfolio.git `
+- `cd gym-portfolio `
 - `npm install `
 - `npm start `
 
